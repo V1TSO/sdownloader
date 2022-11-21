@@ -14,7 +14,7 @@ const Landing = () => {
         if (document.getElementById('ytinput').value !== '') {
             let id = (document.getElementById('ytinput')).value
             let splitId = id.split('v=')[1];
-            setYtid(`http://localhost:4000/api/mp3/${splitId}`)
+            setYtid(`https://youtubesd-api.herokuapp.com/api/mp3/${splitId}`)
         }
     }
 
