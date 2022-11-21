@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sdownloader/static/css/main.822f36f5.css",
+    "main.js": "/sdownloader/static/js/main.ac07871a.js",
+    "index.html": "/sdownloader/index.html",
+    "main.822f36f5.css.map": "/sdownloader/static/css/main.822f36f5.css.map",
+    "main.ac07871a.js.map": "/sdownloader/static/js/main.ac07871a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.822f36f5.css",
+    "static/js/main.ac07871a.js"
+  ]
+}
